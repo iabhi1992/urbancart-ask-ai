@@ -55,3 +55,10 @@ Python 3.11 · pandas · LangChain · FAISS/Chroma · OpenAI · FastAPI · Gradi
 ---
 *Portfolio project with simulated data — demonstrates the architecture, evaluation
 discipline, and production-readiness thinking a real GenAI initiative requires.*
+
+---
+
+## Author
+
+Built step by step as a guided learning project — from Python fundamentals to a
+deployed RAG microservice — by Abhishek Gupta.

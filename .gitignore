@@ -1,0 +1,21 @@
+# Environment — rebuildable machinery, never shared
+.venv/
+
+# Secrets — NEVER commit
+.env
+
+# Python junk
+__pycache__/
+*.pyc
+
+# Jupyter autosave clutter
+.ipynb_checkpoints/
+
+# macOS clutter
+.DS_Store
+
+# Generated data — rebuildable by code; keep folder skeleton only
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep

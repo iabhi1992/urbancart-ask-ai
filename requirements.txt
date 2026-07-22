@@ -1,0 +1,11 @@
+# Data generation & handling
+pandas==2.2.2
+numpy==1.26.4
+faker==25.0.0
+
+# EDA & visualization
+matplotlib==3.9.0
+seaborn==0.13.2
+
+# Secrets management
+python-dotenv==1.0.1

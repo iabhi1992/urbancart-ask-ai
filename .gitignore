@@ -19,3 +19,6 @@ data/raw/*
 data/processed/*
 !data/raw/.gitkeep
 !data/processed/.gitkeep
+
+# Logs — keep the folder, ignore the log files themselves
+logs/*.log

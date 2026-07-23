@@ -9,3 +9,7 @@ seaborn==0.13.2
 
 # Secrets management
 python-dotenv==1.0.1
+
+# Text cleaning (chat log)
+ftfy==6.2.0
+emoji==2.12.1

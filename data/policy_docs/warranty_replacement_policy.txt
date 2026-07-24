@@ -1,0 +1,29 @@
+URBANCART - WARRANTY & REPLACEMENT POLICY
+Version: Q2 2024 | Approved by: Customer Experience & Seller Operations
+Applies to: Eligible products sold via the UrbanCart mobile app and website in India
+
+1. WARRANTY COVERAGE BY CATEGORY
+1.1 Electronics & Gadgets: Manufacturer warranty applies as stated on the product detail page, commonly 6, 12, or 24 months from the date of delivery.
+1.2 Home & Kitchen appliances: Warranty of 6 to 24 months where indicated by the manufacturer.
+1.3 Apparel, Footwear, and Ethnic Wear: No manufacturer warranty; covered only by the Return & Refund Policy return window.
+1.4 A warranty value of 0 months on a product listing means no warranty is offered for that item.
+
+2. WHAT WARRANTY COVERS
+2.1 Manufacturing defects and functional failures under normal use.
+2.2 Dead-on-arrival units reported within 48 hours of delivery, eligible for immediate replacement.
+
+3. WHAT WARRANTY DOES NOT COVER
+3.1 Physical damage, liquid damage, or damage from misuse, accidents, or unauthorised repair.
+3.2 Normal wear and tear, including battery capacity degradation over time.
+3.3 Consumable parts and cosmetic damage that does not affect function.
+3.4 Products with a removed, altered, or unreadable serial number.
+
+4. WARRANTY CLAIM PROCESS
+4.1 Claims are initiated from the Orders screen in the app by selecting the item and choosing Warranty Claim.
+4.2 For manufacturer-serviced items, the claim may be routed to the brand's authorised service centre.
+4.3 A defect verification is performed before a replacement or repair is approved.
+
+5. REPLACEMENT RULES
+5.1 Replacements are issued for the same product and variant, subject to stock.
+5.2 If the same variant is unavailable, the customer may choose an alternative variant of equal value or a refund per the Return & Refund Policy.
+5.3 Replacement dispatch follows the standard timelines in the Shipping & Delivery Policy.

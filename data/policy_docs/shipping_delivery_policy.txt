@@ -1,0 +1,29 @@
+URBANCART - SHIPPING & DELIVERY POLICY
+Version: Q2 2024 | Approved by: Logistics & Customer Experience
+Applies to: All orders placed via the UrbanCart mobile app and website in India
+
+1. DELIVERY TIMELINES BY PINCODE TIER
+1.1 Tier 1 metro pincodes (Mumbai, Delhi, Bengaluru, Chennai, Kolkata, Hyderabad, Pune, Ahmedabad): 2 to 4 business days.
+1.2 Tier 2 city pincodes: 4 to 6 business days.
+1.3 Tier 3 and rural serviceable pincodes: 6 to 9 business days.
+1.4 Delivery timelines begin from the date of order confirmation, not the date the order was placed, for prepaid orders. For COD orders, timelines begin from order confirmation after COD verification.
+
+2. SHIPPING CHARGES
+2.1 Orders with a cart value of Rs 499 or above ship free across all tiers.
+2.2 Orders below Rs 499 incur a flat shipping fee of Rs 40.
+2.3 Bulky items in Home & Kitchen (for example large appliances) may carry an additional handling fee, shown at checkout before payment.
+
+3. COD AVAILABILITY RULES
+3.1 Cash on Delivery is available only on serviceable pincodes and only for order values up to Rs 20,000. See the Payment & COD Policy for the full COD ceiling and verification rules.
+3.2 Certain categories and sellers may disable COD; availability is shown on the product detail page and at checkout.
+3.3 COD is not available for customised or made-to-order products.
+
+4. ORDER TRACKING
+4.1 A tracking link is shared via app notification and SMS once the order is dispatched.
+4.2 Order status values are: Confirmed, Packed, Dispatched, Out for Delivery, Delivered, and Returned.
+4.3 If an order shows Delivered but has not been received, the customer must report it within 48 hours for investigation.
+
+5. DELAYS AND FAILED DELIVERY
+5.1 Deliveries may be delayed during sale events, adverse weather, or in remote pincodes; revised estimates are shown in the app.
+5.2 After three failed delivery attempts, the order is returned to origin and, for prepaid orders, refunded per the Return & Refund Policy.
+5.3 UrbanCart is not liable for delays caused by incorrect or incomplete delivery addresses provided by the customer.

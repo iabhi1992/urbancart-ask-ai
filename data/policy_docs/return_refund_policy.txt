@@ -1,0 +1,46 @@
+URBANCART - RETURN & REFUND POLICY
+Version: Q2 2024 | Approved by: Customer Experience & Legal
+Applies to: All orders placed via the UrbanCart mobile app and website in India
+
+1. RETURN ELIGIBILITY BY CATEGORY
+1.1 Apparel & Ethnic Wear: Returnable within 14 days of delivery, provided original tags are intact and the item is unworn and unwashed.
+1.2 Electronics & Gadgets: Returnable within 7 days of delivery. Original packaging, all accessories, manuals, and the invoice must be returned with the item.
+1.3 Home & Kitchen: Returnable within 10 days of delivery, unused and in original packaging.
+1.4 Footwear: Returnable within 14 days of delivery, unworn, with the original shoe box undamaged.
+1.5 No product category has a return window exceeding 30 days. Any listing showing a longer window is a catalog data error and must be reported to Catalog Operations.
+
+2. CONDITIONS THAT VOID A RETURN
+2.1 The item shows signs of use, wear, washing, or alteration by the customer.
+2.2 Original tags, labels, or serial number stickers have been removed or tampered with.
+2.3 The item was damaged after delivery due to customer mishandling.
+2.4 Accessories, freebies, or promotional items received with the order are missing.
+2.5 The return request is raised after the category return window in Section 1 has expired.
+
+3. NON-RETURNABLE CATEGORIES
+3.1 Innerwear, lingerie, and socks, for hygiene reasons.
+3.2 Perishable and consumable goods, including food items.
+3.3 Customised or made-to-order products, including personalised engraving or tailoring.
+3.4 Items explicitly marked "Non-Returnable" on the product detail page at the time of purchase.
+
+4. REFUND TIMELINES BY PAYMENT METHOD
+4.1 UPI: Refund credited within 3 to 5 business days of pickup and quality check.
+4.2 Credit or Debit Card: Refund credited to the original card within 5 to 7 business days of quality check.
+4.3 Net Banking: Refund credited within 5 to 7 business days of quality check.
+4.4 UrbanCart Wallet: Refund credited instantly upon successful quality check.
+4.5 Refund timelines begin only after the returned item passes the quality check at the warehouse, not at the time of pickup.
+
+5. REFUNDS FOR CASH ON DELIVERY (COD) ORDERS
+5.1 COD orders have no original payment instrument to refund to. The customer must provide bank account details or accept UrbanCart Wallet credit.
+5.2 If bank details are provided, the refund is transferred via NEFT within 7 business days of quality check.
+5.3 If UrbanCart Wallet credit is chosen, the amount is credited instantly upon quality check.
+5.4 COD convenience fees, where charged, are non-refundable.
+
+6. EXCHANGE VERSUS REFUND
+6.1 Exchanges are available for size or colour variants of the same product, subject to stock availability, within the category return window.
+6.2 If the requested exchange variant is out of stock, the request is automatically converted to a refund.
+6.3 Only one exchange is permitted per order item. A second request must be raised as a return and refund.
+
+7. HOW TO INITIATE A RETURN
+7.1 Returns are initiated from the Orders screen in the UrbanCart app by selecting the item and choosing Return or Exchange.
+7.2 A reverse pickup is scheduled within 2 business days for serviceable pincodes.
+7.3 For non-serviceable pincodes, the customer may self-ship to the returns address, and reasonable courier charges are reimbursed as wallet credit.

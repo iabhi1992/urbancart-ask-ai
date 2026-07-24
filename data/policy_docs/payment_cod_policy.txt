@@ -1,0 +1,30 @@
+URBANCART - PAYMENT & COD POLICY
+Version: Q2 2024 | Approved by: Payments & Risk, Customer Experience
+Applies to: All orders placed via the UrbanCart mobile app and website in India
+
+1. ACCEPTED PAYMENT METHODS
+1.1 UPI, credit cards, debit cards, net banking, UrbanCart Wallet, and Cash on Delivery (COD) where available.
+1.2 EMI is available on eligible credit cards for cart values above Rs 3,000.
+
+2. CASH ON DELIVERY (COD)
+2.1 COD is available only on serviceable pincodes and only for order values up to Rs 20,000.
+2.2 A COD convenience fee of Rs 20 may apply and is shown at checkout. This fee is non-refundable, consistent with the Return & Refund Policy Section 5.4.
+2.3 High COD-refusal-risk pincodes may require prepaid payment; this is determined automatically at checkout.
+2.4 COD is not available for customised or made-to-order products.
+
+3. COD VERIFICATION
+3.1 COD orders may require mobile OTP verification before confirmation.
+3.2 Unverified COD orders are held for up to 24 hours and then cancelled automatically.
+
+4. FAILED AND PENDING PAYMENTS
+4.1 If money is debited but the order is not confirmed, the amount is auto-reversed within 5 to 7 business days.
+4.2 A pending payment does not reserve stock; the item may sell out before payment completes.
+4.3 Customers should not re-attempt payment on a debited-but-unconfirmed order until the auto-reversal window has passed.
+
+5. REFUNDS TO PAYMENT METHODS
+5.1 Refund timelines by payment method are governed by the Return & Refund Policy, Section 4.
+5.2 COD order refunds follow the Return & Refund Policy, Section 5, via bank transfer or wallet credit.
+
+6. PRICING AND CHARGES
+6.1 All prices are shown in Indian Rupees and are inclusive of applicable taxes unless stated otherwise.
+6.2 The final payable amount, including any shipping or COD fees, is always displayed at checkout before payment is confirmed.
